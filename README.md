@@ -1,1 +1,1 @@
-Flowcharts
+Flowcharts for the Business Thinking course Y2.T3 Saxion University of Applied Sciences.
